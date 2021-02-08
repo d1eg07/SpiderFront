@@ -1,8 +1,12 @@
 {
     "version": 3,
-    "mappings": "AAAA,AAAA,CAAC,EAAE,CAAC,AAAA,OAAO,EAAE,CAAC,AAAA,QAAQ,CAAA;EACpB,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;CACvB;;AAED,AAAA,IAAI,CAAA;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EAEb,gBAAgB,EAAE,OAAO;CAG1B",
+    "mappings": "AAAA,AAAA,CAAC,EAAE,CAAC,AAAA,OAAO,EAAE,CAAC,AAAA,QAAQ,CAAA;EACpB,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;CACvB;;AAID,AAAA,IAAI,CAAA;EACF,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EAEb,gBAAgB,EAAE,OAAO;CAE1B",
     "sources": [
-        "style.scss"
+        "style.scss",
+        "partials/_colors.scss",
+        "partials/_layout.scss",
+        "partials/_menu.scss",
+        "partials/_animations.scss"
     ],
     "names": [],
     "file": "style.css"
